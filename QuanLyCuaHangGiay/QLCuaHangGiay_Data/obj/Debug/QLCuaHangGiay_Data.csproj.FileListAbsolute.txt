@@ -1,0 +1,23 @@
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.Properties.Resources.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.GenerateResource.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.CoreCompileInputs.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\Newtonsoft.Json.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\Newtonsoft.Json.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.CopyComplete
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csprojAssemblyReference.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\QLCuaHangGiay_Data.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.Properties.Resources.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.GenerateResource.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.csproj.CopyComplete
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay_Data\obj\Debug\QLCuaHangGiay_Data.pdb

@@ -1,0 +1,170 @@
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\ApplicationInsights.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.dll.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.rsp
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csi.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csi.rsp
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.AppContext.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.IO.FileSystem.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.rsp
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\VBCSCompiler.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Antlr3.Runtime.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Web.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.ApplicationInsights.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Newtonsoft.Json.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Net.Http.Formatting.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Helpers.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.WebHost.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Mvc.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Optimization.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Razor.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Deployment.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Razor.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\WebGrease.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Newtonsoft.Json.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Net.Http.Formatting.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Helpers.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.WebHost.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Mvc.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Optimization.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Razor.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Razor.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Antlr3.Runtime.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Web.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csprojAssemblyReference.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csproj.CoreCompileInputs.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csproj.CopyComplete
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Cors.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.Cors.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.Cors.xml
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Vse.Web.Serialization.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCHGiay\bin\Vse.Web.Serialization.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\ApplicationInsights.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.dll.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCHGiay.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csc.rsp
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csi.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\csi.rsp
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.AppContext.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\vbc.rsp
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\VBCSCompiler.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Antlr3.Runtime.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Web.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Newtonsoft.Json.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Net.Http.Formatting.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Cors.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Helpers.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.Cors.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.WebHost.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Mvc.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Optimization.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Razor.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Vse.Web.Serialization.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\WebGrease.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\QLCuaHangGiay_Data.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Newtonsoft.Json.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.Cors.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Helpers.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Mvc.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Optimization.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.Razor.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Vse.Web.Serialization.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Antlr3.Runtime.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.AI.Web.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csprojAssemblyReference.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.csproj.CopyComplete
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCHGiay\obj\Debug\QLCHGiay.pdb

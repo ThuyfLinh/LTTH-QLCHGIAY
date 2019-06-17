@@ -1,0 +1,67 @@
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csprojAssemblyReference.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\TTN.fMain.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.Properties.Resources.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.GenerateResource.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.Fonts.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fDoanhThu.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fGiay.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fKhachHang.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fNhanVien.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.CopyComplete
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.Design.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.exe
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Extensions.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Formatting.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Primitives.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.pdb
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.exe.config
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fCTHoaDonBan.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fCTKhuyenMai.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fHoaDonBan.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fHoaDonNhap.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fKhuyenMai.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fThongKe.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fThongKeNV.resources
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\Newtonsoft.Json.dll
+D:\Học tập kì 6\LTTH\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.Design.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\QLCuaHangGiay_Data.exe.config
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csprojAssemblyReference.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fCTHoaDonBan.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fCTKhuyenMai.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fDoanhThu.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fGiay.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fHoaDonBan.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fHoaDonNhap.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fKhachHang.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fKhuyenMai.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fNhanVien.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.Properties.Resources.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.GenerateResource.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.csproj.CopyComplete
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.exe
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.pdb
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fDangNhap.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fMain.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fPhanQuyen.resources
+C:\Users\Think\Desktop\LTTH\LTTichHop_QLBanGiay\QuanLyCuaHangGiay\QLCuaHangGiay\obj\Debug\QLCuaHangGiay.GUI.fDoiMK.resources
